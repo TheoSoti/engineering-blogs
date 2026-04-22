@@ -253,6 +253,7 @@
 * Target https://target.github.io/
 * Teamwork https://engineroom.teamwork.com/
 * theScore http://techblog.thescore.com/
+* TheoSoti https://theosoti.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * Thumbtack https://www.thumbtack.com/engineering/
 * Timescale https://blog.timescale.com/
